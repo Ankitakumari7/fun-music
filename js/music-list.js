@@ -15,7 +15,7 @@ let allMusic = [
     artist: "Ash King",
     img: "music-1",
     src: "music-1"
-    Download link: "https://low.cdnmp3.com/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhbGJ1bV9pZCI6MjQ2MzQsInRpbWVvdXQiOjE2MjU3NDYzNTh9.ELZuYk3N4mj1anJ7gPSxpsw63gFVIXXXfYPTIKYauBk/abckh/I%20Love%20You%20%28Bodyguard%29%20%20-%20%28amlijatt.in%29.mp3"
+    
   },
   {
     name: "Ikson Anywhere – Ikson",
