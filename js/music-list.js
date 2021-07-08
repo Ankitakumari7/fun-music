@@ -11,8 +11,8 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "I Love You - Bodyguard",
+    artist: "Ash King",
     img: "music-1",
     src: "music-1"
   },
